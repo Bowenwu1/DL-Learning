@@ -1,0 +1,5 @@
+Mnist/data_set/*
+Mnist/model/*
+.vscode/settings.json
+.DS_Store
+Mnist/.DS_Store
